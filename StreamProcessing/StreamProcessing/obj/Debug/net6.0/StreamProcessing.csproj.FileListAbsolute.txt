@@ -1,0 +1,16 @@
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\bin\Debug\net6.0\StreamProcessing.exe
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\bin\Debug\net6.0\stream processing - input.txt
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\bin\Debug\net6.0\StreamProcessing.deps.json
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\bin\Debug\net6.0\StreamProcessing.runtimeconfig.json
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\bin\Debug\net6.0\StreamProcessing.dll
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\bin\Debug\net6.0\StreamProcessing.pdb
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.csproj.AssemblyReference.cache
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.AssemblyInfoInputs.cache
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.AssemblyInfo.cs
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.dll
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\refint\StreamProcessing.dll
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.pdb
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\StreamProcessing.genruntimeconfig.cache
+C:\Users\Enzo\Documents\Projects\PracticeStreamProcessing\StreamProcessing\StreamProcessing\obj\Debug\net6.0\ref\StreamProcessing.dll
