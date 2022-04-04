@@ -14,7 +14,7 @@
         private int _scoreOnzin;
         private int _onzinHelper;
         private int _scoreHelper;
-        public void ProcessStream(StreamReader input, out int score, out int scoreOnzin)
+        public (int, int) ProcessStream(StreamReader input)
         {
             _score = 0;
             _scoreOnzin = 0;
@@ -25,8 +25,7 @@
 
                 ProcessChar((char)input.Read());
             }
-            scoreOnzin = _scoreOnzin;
-            score = _score;
+            return (_score, _scoreOnzin);
         }
         private void ProcessChar(char b)
         {
